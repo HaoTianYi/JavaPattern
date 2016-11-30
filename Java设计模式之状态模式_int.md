@@ -1,6 +1,6 @@
 # Java设计模式之状态模式
 
-[TOC]
+
 
 ## 状态模式简介
 
@@ -516,5 +516,5 @@ public class Client {
 
 
 
-具体代码参见：[GitHub]()
+具体代码参见：[GitHub](https://github.com/HaoTianYi/JavaPattern)
 
